@@ -1,0 +1,4 @@
+.env
+*.env
+go.sum
+/vendor/
